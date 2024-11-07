@@ -2,7 +2,7 @@
 projeto de um flash card
 
 ### TECNOLOGIAS ULTILIZADAS 
-HTML E CSS
+HTML, CSS E JAVA-SCRIPT
 
 ## CREDITOS 
 alura
